@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(93, 156, 93);
+}
+ul li{
+    display: inline-block;
+    margin-left: 10px;
+  }
